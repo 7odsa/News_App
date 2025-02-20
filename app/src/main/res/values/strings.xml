@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">News_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_all">View All</string>
+
+    <string name="General">View All</string>
+    <string name="Business">View All</string>
+    <string name="Entertainment">View All</string>
+    <string name="Health">View All</string>
+    <string name="Science">View All</string>
+    <string name="Technology">View All</string>
+    <string name="Sports">View All</string>
+
 </resources>

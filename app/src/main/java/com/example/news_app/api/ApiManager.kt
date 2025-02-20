@@ -36,6 +36,10 @@ class ApiManager {
         fun newsServices(): NewsServices {
             return initRetrofit().create(NewsServices::class.java)
         }
+
+        fun articlesServices(): ArticlesServices {
+            return initRetrofit().create(ArticlesServices::class.java)
+        }
     }
 
 }
